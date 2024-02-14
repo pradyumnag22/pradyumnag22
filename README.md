@@ -1,4 +1,4 @@
-Please check Problems folder for solved problems
+
 
 - 👋 Hi, I’m @pradyumnag22
 - 👀 I’m interested in ...
